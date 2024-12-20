@@ -1,0 +1,10 @@
+Stack is a non-primitive data structure.
+It is an ordered list in which insertion and deletion of items occur from one end also known as the Top end.
+The "LAST ADDED ELEMENT IS THE FIRST TO BE REMOVED OUT). Thus Stack is also know as "LAST IN FISRT OUT"[LIFO].
+
+
+Operations :
+	1)push(x): adds a new element x to the top of the stack.
+	2)pop(): removes and returns the element from the top of the stack.
+	3)peek(): returns the topmost element from the stack without removing it.
+
